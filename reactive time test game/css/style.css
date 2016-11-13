@@ -1,0 +1,40 @@
+body {
+	font-family:"Open Sans", sans-serif;
+	font-size: 20px;
+	background-color: #e8dfdf;
+}
+
+
+#container {
+	text-align: center;
+	color: #7b3a3a;
+}
+
+.head {
+	font-size: 30px;
+
+}
+
+.res {
+	color: #da0000;
+
+}
+
+#time {
+
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-style: dotted;
+	border-color: #8a4d4d;
+
+}
+
+#box{
+	width:200px;
+	height:200px;
+	display:none;
+	position:relative;
+	top:0;
+}
